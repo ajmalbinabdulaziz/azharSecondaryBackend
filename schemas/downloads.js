@@ -30,7 +30,7 @@ export default defineType({
     ],
     preview: {
         select: {
-        title: 'title',
+        title: 'file.asset.originalFilename',
         category: 'category.title',
         },
     },
